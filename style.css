@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+}
+
+div.card {
+  border-color: red;
+  border-width: 5px;
+  border-style: solid;
+  text-content: center;
+  color: black;
+}
